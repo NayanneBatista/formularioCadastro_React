@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react'
 import './App.css';
 import FormularioCadastro from './components/FormularioCadastro/FormularioCadastro';
-import 'fontsource-roboto';
+
 
 import { Container, Typography } from "@material-ui/core"
 class App extends Component {
